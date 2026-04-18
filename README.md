@@ -1,7 +1,7 @@
 # ACC102 Track 4 Project: Financial Analytics Tool
 ## Project Overview
 This project is an interactive financial analysis tool built with Streamlit.
-It supports financial data query, ratio calculation, visualization, and financial diagnosis.
+It supports financial data query, ratio calculation, visualization, and financial diagnosis with WRDS database.
 
 ## How to Run
 1. Install required packages:
