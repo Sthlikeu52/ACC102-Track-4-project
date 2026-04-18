@@ -26,7 +26,7 @@ with st.sidebar:
     
     if data_source == "WRDS Cloud":
         st.subheader("🔧 WRDS Credentials")
-        wrds_user = st.text_input("Username", value="sthlikeu52")
+        wrds_user = st.text_input("Username")
         wrds_pass = st.text_input("Password", type="password")
     
     st.markdown("---")
