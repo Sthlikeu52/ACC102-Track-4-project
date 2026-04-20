@@ -18,11 +18,16 @@ This project develops an interactive financial analysis tool for finance practit
 
 ## Key Findings
 1.The tool can accurately calculate core financial ratios (debt ratio, ROE, net margin) to reflect a company's financial position and profitability.
+
 2.Trend chart visualization enables intuitive tracking of financial metric changes over time, facilitating trend analysis.
+
 3.The financial diagnosis feature provides actionable insights into a company's financial health, supporting decision-making.
 
 ## Limitations and Next Steps
 Limitation 1: The tool may lack support for more complex financial ratios or industry-specific metrics.
+
 Limitation 2: Data input is limited to specific formats/sources, reducing compatibility with diverse data types.
+
 Future improvement 1: Expand the range of calculable financial ratios to cover industry-specific and advanced metrics (e.g., inventory turnover, EBITDA margin).
+
 Future improvement 2: Add support for multiple data input formats (e.g., CSV, Excel, API integration) and automated data cleaning for unstructured financial data.
