@@ -15,7 +15,7 @@ This project develops an interactive financial analysis tool for finance practit
 - Visualisation (Trend chart visualization for financial metrics)
 - Financial ratio calculation (Debt ratio, ROE, net margin)
 - Financial diagnosis (Analysis of financial health based on calculated metrics)
-- 
+  
 ## Main Functions
 - Financial data query
 - Debt ratio, ROE, net margin calculation
