@@ -8,7 +8,14 @@ This project develops an interactive financial analysis tool for finance practit
 
 2. Run the tool:
    Run app.py (streamlit run app.py)
-   
+
+## Methods
+- Data cleaning
+- Exploratory analysis
+- Visualisation (Trend chart visualization for financial metrics)
+- Financial ratio calculation (Debt ratio, ROE, net margin)
+- Financial diagnosis (Analysis of financial health based on calculated metrics)
+- 
 ## Main Functions
 - Financial data query
 - Debt ratio, ROE, net margin calculation
